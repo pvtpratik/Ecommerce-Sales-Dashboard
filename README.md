@@ -50,15 +50,6 @@ This dashboard helps businesses analyze year-to-date (YTD) performance, identify
 
 ---
 
-## 📁 Project Files
-
-| File | Description |
-|------|-------------|
-| `Ecommerce_Sales_Dashboard.pbix` | Main Power BI dashboard file |
-| `dataset/` | Contains raw and cleaned datasets |
-| `images/` | Screenshots and dashboard previews |
-
----
 
 ### **📊 Dashboard Preview – Ecommerce Sales Dashboard**
 <img src="./Ecommerce Sales Dashboard.png" alt="Ecommerce Sales Dashboard" width="850">
