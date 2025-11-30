@@ -61,7 +61,7 @@ This dashboard helps businesses analyze year-to-date (YTD) performance, identify
 ---
 
 ### **📊 Dashboard Preview – Ecommerce Sales Dashboard**
-<img src="./Overview Tab.png" alt="Overview Dashboard" width="850">
+<img src="./Ecommerce Sales Dashboard.png" alt="Ecommerce Sales Dashboard" width="850">
 
 ## 📊 Insights Delivered
 
